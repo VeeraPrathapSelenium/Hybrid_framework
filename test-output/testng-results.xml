@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7829" started-at="2017-07-11T06:32:04Z" finished-at="2017-07-11T06:32:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7829" started-at="2017-07-11T06:32:04Z" finished-at="2017-07-11T06:32:12Z">
+      <class name="com.GenerateXML.WritingXMLForTestCases">
+        <test-method status="PASS" signature="getTestcases()[pri:1, instance:com.GenerateXML.WritingXMLForTestCases@3a82f6ef]" name="getTestcases" duration-ms="4229" started-at="2017-07-11T12:02:04Z" finished-at="2017-07-11T12:02:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTestcases -->
+        <test-method status="PASS" signature="startWriting()[pri:2, instance:com.GenerateXML.WritingXMLForTestCases@3a82f6ef]" name="startWriting" duration-ms="554" started-at="2017-07-11T12:02:08Z" finished-at="2017-07-11T12:02:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startWriting -->
+        <test-method status="PASS" signature="runXML()[pri:0, instance:com.GenerateXML.WritingXMLForTestCases@3a82f6ef]" name="runXML" is-config="true" duration-ms="2818" started-at="2017-07-11T12:02:09Z" finished-at="2017-07-11T12:02:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runXML -->
+      </class> <!-- com.GenerateXML.WritingXMLForTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
