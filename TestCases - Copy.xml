@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<suite name="Suite of Suits">
-	<test name="Test">
-		<classes>
-			<class name="com.TestCases.Tc_02" />
-		</classes>
-	</test>
-</suite>
